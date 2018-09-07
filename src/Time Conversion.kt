@@ -6,5 +6,5 @@ fun main(args:Array<String>){
     num =num.minus(min*60)
     println("$hour:$min:$num")
 
-
+//nn
 }
