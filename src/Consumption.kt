@@ -1,0 +1,1 @@
+fun main(args:Array<String>) = println("${"%.3f".format(readLine()!!.toInt()/readLine()!!.toDouble())} km/l")
